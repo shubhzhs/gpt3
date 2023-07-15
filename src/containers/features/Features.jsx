@@ -31,6 +31,7 @@ const Features = () => {
           Today & Make it Happen.
         </h1>
         <p>Request Early Access to Get Started</p>
+        <h4>Request Early Access to Get Started</h4>
       </div>
       <div className="gpt3__features-container">
         {featuresData.map((item, index) => (
