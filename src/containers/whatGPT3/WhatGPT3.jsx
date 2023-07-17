@@ -7,7 +7,7 @@ const WhatGPT3 = () => (
     <div className="gpt3__whatgpt3-feature">
       <Feature
         title="What is GPT-3"
-        text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by."
+        text="GPT-3 is a neural network machine learning model trained using internet data to generate any type of text. Developed by OpenAI, it requires a small amount of input text to generate large volumes of relevant and sophisticated machine-generated text"
       />
     </div>
     <div className="gpt3__whatgpt3-heading">
@@ -19,15 +19,15 @@ const WhatGPT3 = () => (
     <div className="gpt3__whatgpt3-container">
       <Feature
         title="Chatbots"
-        text="We so opinion friends me message as delight. Whole front do of plate heard oh ought."
+        text="A chatbot is software that simulates human-like conversations with users via chat. Its key task is to answer user questions with instant messages."
       />
       <Feature
         title="Knowledgebase"
-        text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+        text="Knowledgebase is the electronic repository, and associated authoring, approval and search tools, which contains known errors and their resolutions or workarounds, procedural guidelines, how-to information and frequently asked questions."
       />
       <Feature
         title="Education"
-        text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+        text="Students and teachers can speak, gesture, sketch, and use other natural human modes of communication to interact with a computational resource and each other."
       />
     </div>
   </div>
